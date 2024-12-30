@@ -1,3 +1,5 @@
-Analog clock with c++ and sdl2
-![alt text](https://github.com/KosmasF/cpp_clock/blob/master/icon.bmp![alt text](http://url/to/img.png)
-.png)
+Analog clock with C++ and SDL2.
+
+<p align="center">
+  <img src="icon.bmp" alt="Analog Clock Preview" width="940">
+</p>
