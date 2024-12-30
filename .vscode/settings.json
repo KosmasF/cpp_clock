@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "type_traits": "cpp",
+        "deque": "cpp",
+        "variant": "cpp",
+        "map": "cpp",
+        "cmath": "cpp"
+    }
+}
