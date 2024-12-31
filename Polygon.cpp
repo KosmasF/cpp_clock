@@ -151,7 +151,7 @@ Vector2D *Polygon::RotateAndTranslate()
         double point_angle = atan2(rel_pos.y , rel_pos.x);
 
         points_rotated[i] = {
-            (float)(cos(point_angle + rotation) * absolute_value), //For some reason it is subtraction, I dont know why??
+            (float)(cos(point_angle + rotation) * absolute_value),
             (float)(sin(point_angle + rotation) * absolute_value)
         };
     }

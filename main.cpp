@@ -149,6 +149,9 @@ int main()
         ret = SDL_UpdateWindowSurface(win);
     }
 
+    SDL_DestroyRenderer(renderer);
+    SDL_DestroyWindow(win);
+    SDL_Quit();
 
     return 0;
 }
